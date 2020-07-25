@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6e64f447-6728-4483-89ac-106a5bbcc2a1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/img/blog/bigstock-Programming-Web-Banner-Best-P-258081862-1280x720.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/blog/going-digital-toolkit-colour-slider.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/blog/unnamed.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/network-4851120_960_720.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/nw_future_technology_disruption_by_metamorworks_gettyimages-1019164310_2400x1600-100826597-large.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/blog/1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/blog/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/blog/3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1Z1hTByja8cFlVvTmai1ID3K0KP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6e64f447-6728-4483-89ac-106a5bbcc2a1" name="Default Changelist" comment="" />
+      <created>1584012512498</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584012512498</updated>
+      <workItem from="1584012513959" duration="7833000" />
+      <workItem from="1584118648937" duration="10249000" />
+      <workItem from="1584263451938" duration="4445000" />
+      <workItem from="1586721579180" duration="65000" />
+      <workItem from="1587422595242" duration="2447000" />
+      <workItem from="1587430327651" duration="51000" />
+      <workItem from="1587780226495" duration="4794000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="605" y="400" width="424" height="484" key="FileChooserDialogImpl" timestamp="1587430378814">
+      <screen x="45" y="207" width="1555" height="873" />
+    </state>
+    <state x="605" y="400" width="424" height="484" key="FileChooserDialogImpl/45.207.1555.873/1600.0.1920.1200@45.207.1555.873" timestamp="1587430378814" />
+    <state x="605" y="220" width="424" height="484" key="FileChooserDialogImpl/45.27.1555.873/1600.0.3840.2160@45.27.1555.873" timestamp="1584122881897" />
+  </component>
+</project>
